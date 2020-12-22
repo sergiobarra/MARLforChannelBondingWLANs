@@ -20,6 +20,8 @@ This repository contains the Jupyter Notebooks to simulate MARL behavior in a mu
 * Main file: ```main.ipynb```
 * Custom RL models file: ```rl_models.ipynb```
 
+**Note**: you have to store the dataset containing the performance of every possible global configuration in ```datasets``` folder.
+
 ### 4-BSS's selfcontained dataset v1 (2020)
 
 In our research publications, we work with a holistic, self-contained, toy scenario dataset, resulting from simulating all the possible configuration combinations of a particular deployment of 4 potentially overlapping BSS's with dynamic channel bonding capabilities. The idea of simulating every configuration combination is to know the optimal one for every combination of traffic loads.
