@@ -1,7 +1,8 @@
 # Multi-Agent Reinforcement Learning (MARL) for Spectrum Allocation in Dynamic Channel Bonding WLANs
 
 **Scientific papers using this MARL framework**: 
-- *To be announced.
+- Barrachina-Muñoz, S., Chiumento, A., & Bellalta, B. (2021). _Stateless Reinforcement Learning for Multi-Agent Systems: the Case of Spectrum Allocation in Dynamic Channel Bonding WLANs_. Wireless Days 2021.
+- More to be announced...
 
 ### Author
 * [Sergio Barrachina-Muñoz](https://github.com/sergiobarra)
@@ -22,7 +23,7 @@ This repository contains the Jupyter Notebooks to simulate MARL behavior in a mu
 
 **Note**: you have to store the dataset containing the performance of every possible global configuration in ```datasets``` folder.
 
-### 4-BSS's selfcontained dataset v1 (2020)
+### 4-BSS's selfcontained dataset v1
 
 In our research publications, we work with a holistic, self-contained, toy scenario dataset, resulting from simulating all the possible configuration combinations of a particular deployment of 4 potentially overlapping BSS's with dynamic channel bonding capabilities. The idea of simulating every configuration combination is to know the optimal one for every combination of traffic loads.
 
