@@ -1,11 +1,11 @@
 # Multi-Agent Reinforcement Learning (MARL) for Spectrum Allocation in Dynamic Channel Bonding WLANs
 
 **Scientific papers using this MARL framework**: 
-- Barrachina-Muñoz, S., Chiumento, A., & Bellalta, B. (2021). _Stateless Reinforcement Learning for Multi-Agent Systems: the Case of Spectrum Allocation in Dynamic Channel Bonding WLANs_. Wireless Days 2021.
-- More to be announced...
+- Barrachina-Muñoz, S., Chiumento, A., & Bellalta, B. (2021). _Multi-Armed Bandits for Spectrum Allocation in Multi-Agent Channel Bonding WLANs_. IEEE Access 9 (2021): 133472-133490. [Link](https://ieeexplore.ieee.org/abstract/document/9543682/)
+- Barrachina-Muñoz, S., Chiumento, A., & Bellalta, B. (2021). _Stateless Reinforcement Learning for Multi-Agent Systems: the Case of Spectrum Allocation in Dynamic Channel Bonding WLANs_. Wireless Days 2021. [Link](https://ieeexplore.ieee.org/abstract/document/9508323)
 
 ### Author
-* [Sergio Barrachina-Muñoz](https://github.com/sergiobarra)
+* [Sergio Barrachina-Muñoz](https://sergiobarra.github.io/)
 
 ### Project description
 
